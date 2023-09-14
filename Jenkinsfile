@@ -10,7 +10,7 @@ pipeline {
 
   stages {
 
-    stage('Hello from test') {
+    stage('Hello for dev') {
 
       steps {
 
